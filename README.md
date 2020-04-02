@@ -32,6 +32,9 @@ main.main("2010-01-01","2018-12-31",'검색어',"en","저장될 파일명")
 자신이 원하는 검색어 및 날짜를 지정해주시면됩니다. <br><br>
 코드를 실행시켜 주시면 Selenium을 통한 크롤링이 진행됩니다.
 
+### 크롤링 결과
+<img width="830" alt="스크린샷 2020-04-03 오전 12 06 34" src="https://user-images.githubusercontent.com/26376653/78265217-1c83a380-753f-11ea-86ad-e57c30eea662.png">
+
 ### Contact
 If you have any requests, please contact: [https://ck992.github.io/](https://ck992.github.io/).
 
